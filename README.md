@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrahadve05&label=Profile%20views&color=0e75b6&style=flat" alt="yashrahadve05" /> </p>
 
-- 🔭 I’m currently working on **BrainBix**
+- 🔭 I’m currently working on **BrainBox**
 
 - 🌱 I’m currently learning **ReactJS and NextJs**
 
