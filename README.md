@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BrainBox**
 
-- 🌱 I’m currently learning **ReactJS and NextJs**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **yashrahadve05@gmail.com**
 
