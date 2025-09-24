@@ -141,3 +141,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrahadve05&theme=react&show_icons=true&hide_border=true&layout=compact" alt="yashrahadve05's GitHub Stats" />
+
+---
+
+✨ *Always curious to learn and build something impactful!* 🚀
+
