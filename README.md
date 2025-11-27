@@ -32,6 +32,9 @@
   <a href="https://www.instagram.com/yashrahadve/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="30" />
   </a>
+  <a href="https://x.com/Yashrahadve05" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="X.com" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
