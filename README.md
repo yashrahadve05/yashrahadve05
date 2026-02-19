@@ -5,7 +5,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash Kumar Rahadve</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<!-- <h3 align="center">🚀 Full Stack Developer | Learning GenAI | AI Enthusiast </h3> -->
+
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=435&lines=Full+Stack+Developer;Exploring+AgenticAI+%26+GenAI;Building+Real+World+Projects" alt="Typing SVG" />
+</p>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yashrahadve05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for yashrahadve05" /> 
