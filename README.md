@@ -132,13 +132,11 @@ Currently focused on becoming a high-impact Software Engineer with strong fundam
 
 # 📊 GitHub Stats:
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&theme=react&show_icons=true&hide_border=true&count_private=true" alt="yashrahadve05's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrahadve05&theme=react&show_icons=true&hide_border=true&layout=compact" alt="yashrahadve05's GitHub Stats" />
 
--->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&theme=react&show_icons=true&hide_border=true&count_private=true" alt="yashrahadve05's GitHub Stats" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="yashrahadve05's GitHub Stats" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=yashrahadve05&theme=shadow_blue&hide_border=false)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=yashrahadve05&theme=shadow_blue&hide_border=false)<br/>  -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrahadve05&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
