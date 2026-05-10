@@ -39,26 +39,6 @@ Currently focused on becoming a high-impact Software Engineer with strong fundam
 - 📱 Creating Full-stack web apps using ReactJS and NextJS
 - ⚡ Writing clean, maintainable, production-ready code
 
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yashrahadve/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yashrahadve/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Yashrahadve05" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="X.com" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:yashrahadve05@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
-  </a>
-</p>
-
 # 💻 Tech Stack:
 
 ### Core Programming Languages
@@ -138,9 +118,10 @@ Currently focused on becoming a high-impact Software Engineer with strong fundam
 
 # 📊 GitHub Stats:
 
+ ![GitHub Streak](https://streak-stats.demolab.com?user=yashrahadve05&theme=tokyonight-duo&hide_border=true)  
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&theme=react&show_icons=true&hide_border=true&count_private=true" alt="yashrahadve05's GitHub Stats" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="yashrahadve05's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="yashrahadve05's GitHub Stats" /> -->
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=yashrahadve05&theme=shadow_blue&hide_border=false)<br/>  -->
 
