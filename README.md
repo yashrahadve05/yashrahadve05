@@ -98,6 +98,17 @@ Currently focused on becoming a high-impact Software Engineer with strong fundam
 
 ---
 
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrahadve/)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/Yashrahadve05)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yashrahadve/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashrahadve05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-080808?&logo=about.me&logoColor=white)](https://yash-rahadve-portfolio.vercel.app/)
+
+
+---
+
 # 📈 Profile Summary Charts
 
 <p align="center">
