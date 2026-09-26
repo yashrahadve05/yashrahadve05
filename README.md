@@ -1,81 +1,145 @@
-<p align="center">
-  
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+<div align="center">
 
-</p>
+# Hi 👋, I'm Yash Kumar Rahadve
 
-<h1 align="center">Hi 👋, I'm Yash Kumar Rahadve</h1>
-<!-- <h3 align="center">🚀 Full Stack Developer | Learning GenAI | AI Enthusiast </h3> -->
+### Full Stack Engineer · Generative AI · Building Production Systems
 
+<br>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=435&lines=Full+Stack+Developer;Exploring+AgenticAI+%26+GenAI;Building+Real+World+Projects" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+%2B+Generative+AI+Engineer;Building+ResumeCraftAI+%E2%80%94+AI-Powered+Resume+Builder;Exploring+LangChain%2C+LangGraph+%26+LLM+Systems;Mastering+DSA+%26+System+Design;Writing+Clean%2C+Production-Ready+Code" alt="Typing SVG" />
 
+<br><br>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yashrahadve05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for yashrahadve05" /> 
-</p>
+<a href="https://yashrahadve.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-080808?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/yashrahadve/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/Yashrahadve05" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/yashrahadve/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:yashrahadve05@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<!-- I’m passionate about **Web Development, Problem Solving and AI/ML**. and I enjoy building projects that combine creativity with technology. -->
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=yashrahadve05&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
-<p>
-  💡 I build scalable web applications and intelligent systems that solve real-world problems.
-I’m passionate about writing clean code, mastering Data Structures & Algorithms, and blending AI with modern web technologies.
-Currently focused on becoming a high-impact Software Engineer with strong fundamentals and production-level development skills.
+</div>
 
-</p>
+---
 
-- 📫 Latest Project: [CodeMastery](https://code-mastery-opal.vercel.app/)
-      <!-- - 🔭 I’m currently working on **CodeMastery** -->
-      <!-- - 🌱 I’m currently learning **ReactJS** -->
-- 📫 How to reach me: **yashrahadve05@gmail.com**
+## About
 
-## 📶 Interests
+I'm **Yash Rahadve**, a Full Stack + Generative AI Engineer focused on building intelligent, production-grade systems.
 
-- 🌐 Building modern web applications with React & scalable backend systems
-- 📊 Mastering Data Structures & Algorithms
-- 🤖 Exploring GenAI & AgenticAI
-- 📱 Creating Full-stack web apps using ReactJS and NextJS
-- ⚡ Writing clean, maintainable, production-ready code
+My work sits at the intersection of **modern web engineering** and **LLM-powered applications** - from full-stack platforms with React and Node.js, to agentic workflows with LangChain and LangGraph. I care about clean architecture, strong fundamentals, and shipping things that actually work at scale.
 
-# 💻 Tech Stack:
+Currently building **ResumeCraftAI**, actively deepening expertise in **Agentic AI systems**, and grinding **DSA** for high-performance problem solving.
 
-### Core Programming Languages
+---
+
+## What I'm Building
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ResumeCraftAI
+
+AI-powered resume builder that generates modern, ATS-optimized resumes in minutes. Built with a full-stack architecture and LLM-driven content generation.
+
+<br>
+
+<a href="https://resumecraftai.yashrahadve.dev/">
+  <img src="https://img.shields.io/badge/Live_Demo_%E2%86%97-080808?style=flat-square"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### CodeMastery
+
+A coding practice platform for sharpening algorithmic skills and preparing for technical interviews — problems, challenges, and structured learning paths.
+
+<br>
+
+<a href="https://code-mastery-opal.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo_%E2%86%97-080808?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### StockInsights
+
+AI-powered stock market app with real-time price tracking, interactive charts, personalised watchlists, smart alerts, and automated market summaries.
+
+<br>
+
+<a href="https://github.com/yashrahadve05/StockInsights">
+  <img src="https://img.shields.io/badge/View_Project_%E2%86%97-080808?style=flat-square"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Career Guidance
+
+Full-stack MERN application that helps students and early professionals discover suitable career paths by analysing their skills, interests, and experience.
+
+<br>
+
+<a href="https://github.com/yashrahadve05/AI-Career-Guidance-Application">
+  <img src="https://img.shields.io/badge/View_Project_%E2%86%97-080808?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Frontend Development
+</td>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NextJS-080808?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Redux-151924?style=flat&logo=redux"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/ShadCN-080808?style=flat&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-080808?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-080808?style=flat&logo=rest&logoColor=white"/>
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+<td valign="top" width="50%">
 
 ### Agentic AI & LLM Systems
 
@@ -86,58 +150,97 @@ Currently focused on becoming a high-impact Software Engineer with strong fundam
   <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
 </p>
 
-### Other Skills & Tools
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Vercel-080808?style=flat&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-080808?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-080808?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-151924?style=flat&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ShadCN-080808?style=flat&logo=shadcnui&logoColor=white"/>
+</p>
+
+</td>
+
+<td valign="top">
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-080808?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-080808?style=flat&logo=vercel&logoColor=white"/>
 </p>
+
+</td>
+
+</tr>
+
+</table>
+</div>
 
 ---
 
-## 🌐 Socials:
+## GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrahadve/)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/Yashrahadve05)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yashrahadve/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashrahadve05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-080808?&logo=about.me&logoColor=white)](https://yashrahadve.dev/)
+<div align="center">
 
+<img width="49%" src="https://streak-stats.demolab.com?user=yashrahadve05&theme=tokyonight-duo&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrahadve05&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 
----
+<br><br>
 
-# 📈 Profile Summary Charts
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrahadve05&theme=github-compact&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrahadve05&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrahadve05&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashrahadve05&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashrahadve05&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashrahadve05&theme=radical&utcOffset=5.5" />
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats:
+## Profile Summary
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=yashrahadve05&theme=tokyonight-duo&hide_border=true)  
+<div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&theme=react&show_icons=true&hide_border=true&count_private=true" alt="yashrahadve05's GitHub Stats" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=yashrahadve05&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="yashrahadve05's GitHub Stats" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashrahadve05&theme=tokyonight" />
 
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=yashrahadve05&theme=shadow_blue&hide_border=false)<br/>  -->
+<br>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrahadve05&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashrahadve05&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashrahadve05&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashrahadve05&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashrahadve05&theme=tokyonight&utcOffset=5.5" />
+
+</div>
 
 ---
 
-✨ _Always curious to learn and build something impactful!_ 🚀
+## Let's Connect
+
+Building something interesting, have a collaboration in mind, or just want to talk engineering? Reach out.
+
+<a href="mailto:yashrahadve05@gmail.com">
+  <img src="https://img.shields.io/badge/yashrahadve05@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://yashrahadve.dev/">
+  <img src="https://img.shields.io/badge/yashrahadve.dev-080808?style=flat&logo=about.me&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+  <sub>Always building. Always learning.</sub>
+</div>
