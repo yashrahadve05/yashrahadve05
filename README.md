@@ -197,11 +197,11 @@ Full-stack MERN application that helps students and early professionals discover
 <div align="center">
 
 <img width="49%" src="https://streak-stats.demolab.com?user=yashrahadve05&theme=tokyonight-duo&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrahadve05&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrahadve05&layout=compact&theme=transparent&hide_border=true&langs_count=8"/> -->
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrahadve05&theme=github-compact&hide_border=true"/>
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashrahadve05&theme=github-compact&hide_border=true"/> -->
 
 </div>
 
